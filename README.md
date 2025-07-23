@@ -3,6 +3,8 @@
 A **Python-powered dashboard** to help you track income, expenses, and investments, while visualizing your overall financial health. Built using **Panel**, **Pandas**, and **Matplotlib**, this tool offers interactive graphs and widgets for a personalized and insightful financial analysis experience.
 
 ---
+# How it looks:
+<img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/c889e30d-1735-4583-af5e-b6e1e8a0fc91" />
 
 ## 🚀 Features
 
